@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Shahzaib",
+        "email": "shahzaibjameel@.com",
+        "country": "Pakistan",
+        "address": "Johar Town Lahore",
+        "dob": "10-07-2000",
+        "phone": "+92-15987552665"
+    },
+    {
+        "id": 2,
+        "name": "John",
+        "email": "john@gmail.com",
+        "country": "USA",
+        "address": "Florida",
+        "dob": "22-10-1999",
+        "phone": "+1 985458 54845 48458"
+    },
+    {
+        "id": 3,
+        "name": "Franklin",
+        "email": "franklin@gmail.com",
+        "country": "Australia",
+        "address": "Adelaid ",
+        "dob": "10-10-1990",
+        "phone": "+55 777875 645454 8895"
+    },
+    {
+        "id": 4,
+        "name": "haider",
+        "email": "haider@gmail.com",
+        "country": "Pakistan",
+        "address": "F7 Islamabad ",
+        "dob": "22-10-2002",
+        "phone": "0332-0605995655"
+    },
+    {
+            "id": 5,
+            "name": "Ali",
+            "email": "ali@gmail.com",
+            "country": "Pakistan",
+            "address": "Faisal Town",
+            "dob": "15-10-2005",
+            "phone": "0321-2554565548"
+    },
+    {
+        "id": 6,
+        "name": "Ali",
+        "email": "ali@gmail.com",
+        "country": "Pakistan",
+        "address": "Faisal Town",
+        "dob": "15-10-2005",
+        "phone": "0321-2554565548"
+},
+{
+    "id": 7,
+    "name": "Sohaib",
+    "email": "sohaib@gmail.com",
+    "country": "Pakistan",
+    "address": "Karachi",
+    "dob": "20-10-2006",
+    "phone": "0321-256975589"
+}
+]
